@@ -1,2 +1,2 @@
 # python-teutorial
-python lab
+python lab programs
